@@ -87,7 +87,7 @@ Run: composer install
   The PHP comparison operators are used to compare two values (number or string)
 
   - Equal
-  - Identicla
+  - Identical
   - NotEqual
   - NotIdentical
   - GreaterThan
